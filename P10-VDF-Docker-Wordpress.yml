@@ -1,0 +1,891 @@
+AWSTemplateFormatVersion: 2010-09-09
+Metadata:
+  'AWS::CloudFormation::Designer':
+    349a627b-91a1-4ed1-85e4-5516cb83c411:
+      size:
+        width: 720
+        height: 780
+      position:
+        x: 20
+        'y': 20
+      z: 0
+      embeds:
+        - f23d8fe7-c944-4c67-abbe-d8e23e974981
+        - 96475cd6-7b9f-4778-a802-614c74562758
+        - bbee72c3-368e-4b24-b353-ab4e7701f9fb
+        - 66e284b0-a840-4f3b-b9dd-c2e63b0f1b4a
+        - d5f689ce-92c3-4e19-b4b3-d6abd4134b4b
+        - fda64e1a-a925-444c-990a-09daf4785909
+        - e8667ba2-4c22-438c-8294-e734374f08ac
+        - 2d32b74c-6fed-4e0d-84eb-28085fa7a11d
+        - 3ec984e5-2c2c-4a49-8bb7-4663a5dfba4c
+        - 2fd4b45a-8e27-46de-85e4-de3efe174904
+        - dcfd5e84-9d0f-45d2-870d-82799056a1f4
+        - 7a61bd58-6c10-48ce-9302-57912f485c93
+        - 0c844ea5-88a6-489f-81e2-24ae99731fc1
+        - cf93e7b2-9127-4bae-a039-c4e49103e3b2
+
+    f23d8fe7-c944-4c67-abbe-d8e23e974981:
+      size:
+        width: 150
+        height: 150
+      position:
+        x: 60
+        'y': 380
+      z: 1
+      parent: 349a627b-91a1-4ed1-85e4-5516cb83c411
+      iscontainedinside:
+        - 349a627b-91a1-4ed1-85e4-5516cb83c411
+
+    96475cd6-7b9f-4778-a802-614c74562758:
+      size:
+        width: 140
+        height: 140
+      position:
+        x: 420
+        'y': 120
+      z: 1
+      parent: 349a627b-91a1-4ed1-85e4-5516cb83c411
+      iscontainedinside:
+        - 349a627b-91a1-4ed1-85e4-5516cb83c411
+
+    bbee72c3-368e-4b24-b353-ab4e7701f9fb:
+      size:
+        width: 60
+        height: 60
+      position:
+        x: 610
+        'y': 130
+      z: 1
+      parent: 349a627b-91a1-4ed1-85e4-5516cb83c411
+      iscontainedinside:
+        - 349a627b-91a1-4ed1-85e4-5516cb83c411
+
+    66e284b0-a840-4f3b-b9dd-c2e63b0f1b4a:
+      size:
+        width: 160
+        height: 150
+      position:
+        x: 60
+        'y': 90
+      z: 1
+      parent: 349a627b-91a1-4ed1-85e4-5516cb83c411
+      embeds:
+        - 905982ef-27cb-4e52-a3df-30a92c3f454d
+      iscontainedinside:
+        - 349a627b-91a1-4ed1-85e4-5516cb83c411
+
+    905982ef-27cb-4e52-a3df-30a92c3f454d:
+      size:
+        width: 60
+        height: 60
+      position:
+        x: 100
+        'y': 90
+      z: 3
+      parent: 66e284b0-a840-4f3b-b9dd-c2e63b0f1b4a
+      isassociatedwith:
+        - ab38c26b-72bc-4204-8659-bae213c7259
+      iscontainedinside:
+        - 66e284b0-a840-4f3b-b9dd-c2e63b0f1b4a
+
+    ab38c26b-72bc-4204-8659-bae213c7259:
+      size:
+        width: 60
+        height: 60
+      position:
+        x: -110
+        'y': 90
+      z: 1
+
+    d5f689ce-92c3-4e19-b4b3-d6abd4134b4b:
+      size:
+        width: 60
+        height: 60
+      position:
+        x: 450
+        'y': 420
+      z: 1
+      parent: 349a627b-91a1-4ed1-85e4-5516cb83c411
+      isassociatedwith:
+        - 3ec984e5-2c2c-4a49-8bb7-4663a5dfba4c
+      iscontainedinside:
+        - f23d8fe7-c944-4c67-abbe-d8e23e974981
+        - 96475cd6-7b9f-4778-a802-614c74562758
+
+    fda64e1a-a925-444c-990a-09daf4785909:
+      size:
+        width: 60
+        height: 60
+      position:
+        x: 310
+        'y': 570
+      z: 1
+      parent: 349a627b-91a1-4ed1-85e4-5516cb83c411
+      isassociatedwith:
+        - d5f689ce-92c3-4e19-b4b3-d6abd4134b4b
+
+    e8667ba2-4c22-438c-8294-e734374f08ac:
+      size:
+        width: 60
+        height: 60
+      position:
+        x: 450
+        'y': 570
+      z: 2
+      parent: 349a627b-91a1-4ed1-85e4-5516cb83c411
+
+    2d32b74c-6fed-4e0d-84eb-28085fa7a11d:
+      size:
+        width: 60
+        height: 60
+      position:
+        x: 550
+        'y': 570
+      z: 2
+      parent: 349a627b-91a1-4ed1-85e4-5516cb83c411
+
+    43a3a302-4d47-4965-a399-6ba7a85ab837:
+      size:
+        width: 60
+        height: 60
+      position:
+        x: 800
+        'y': 570
+      z: 0
+
+    2365f940-d31e-4bc1-a06e-12f7dae07d0a:
+      size:
+        width: 60
+        height: 60
+      position:
+        x: 800
+        'y': 450
+      z: 0
+      isassociatedwith:
+        - 43a3a302-4d47-4965-a399-6ba7a85ab837
+
+    3ec984e5-2c2c-4a49-8bb7-4663a5dfba4c:
+      size:
+        width: 60
+        height: 60
+      position:
+        x: 610
+        'y': 330
+      z: 1
+      parent: 349a627b-91a1-4ed1-85e4-5516cb83c411
+      isassociatedwith:
+        - bbee72c3-368e-4b24-b353-ab4e7701f9fb
+      iscontainedinside:
+        - 349a627b-91a1-4ed1-85e4-5516cb83c411
+
+    2fd4b45a-8e27-46de-85e4-de3efe174904:
+      size:
+        width: 60
+        height: 60
+      position:
+        x: 200
+        'y': 270
+      z: 1
+      parent: 349a627b-91a1-4ed1-85e4-5516cb83c411
+      isassociatedwith:
+        - dcfd5e84-9d0f-45d2-870d-82799056a1f4
+      iscontainedinside:
+        - f23d8fe7-c944-4c67-abbe-d8e23e974981
+        - 96475cd6-7b9f-4778-a802-614c74562758
+
+    dcfd5e84-9d0f-45d2-870d-82799056a1f4:
+      size:
+        width: 60
+        height: 60
+      position:
+        x: 290
+        'y': 200
+      z: 1
+      parent: 349a627b-91a1-4ed1-85e4-5516cb83c411
+      iscontainedinside:
+        - 349a627b-91a1-4ed1-85e4-5516cb83c411
+
+    7a61bd58-6c10-48ce-9302-57912f485c93:
+      size:
+        width: 60
+        height: 60
+      position:
+        x: 260
+        'y': 350
+      z: 1
+      parent: 349a627b-91a1-4ed1-85e4-5516cb83c411
+      isassociatedwith:
+        - 2fd4b45a-8e27-46de-85e4-de3efe174904
+
+    0c844ea5-88a6-489f-81e2-24ae99731fc1:
+      size:
+        width: 60
+        height: 60
+      position:
+        x: 370
+        'y': 340
+      z: 1
+      parent: 349a627b-91a1-4ed1-85e4-5516cb83c411
+      iscontainedinside:
+        - 349a627b-91a1-4ed1-85e4-5516cb83c411
+
+    902bd90f-1ae2-45ee-82ff-d3abe142cee4:
+      size:
+        width: 60
+        height: 60
+      position:
+        x: -100
+        'y': 390
+      z: 0
+
+    239e7f52-ccb8-467a-99ed-31c23ad8c73f:
+      size:
+        width: 60
+        height: 60
+      position:
+        x: -100
+        'y': 510
+      z: 0
+
+    6d8296ed-c5d5-409e-ab2d-88e1ed473f37:
+      size:
+        width: 200
+        height: 190
+      position:
+        x: 40
+        'y': 590
+      z: 1
+      parent: 349a627b-91a1-4ed1-85e4-5516cb83c411
+      embeds:
+        - 77eb49d2-3e04-42bc-981e-b0f4d492a201
+        - 4ba8d0ad-f7d6-4b24-a277-25e2152ee970
+      iscontainedinside:
+        - f23d8fe7-c944-4c67-abbe-d8e23e974981
+        - 96475cd6-7b9f-4778-a802-614c74562758
+
+    cf93e7b2-9127-4bae-a039-c4e49103e3b2:
+      size:
+        width: 60
+        height: 60
+      position:
+        x: 310
+        'y': 690
+      z: 1
+      parent: 349a627b-91a1-4ed1-85e4-5516cb83c411
+      iscontainedinside:
+        - 349a627b-91a1-4ed1-85e4-5516cb83c411
+
+    77eb49d2-3e04-42bc-981e-b0f4d492a201:
+      size:
+        width: 60
+        height: 60
+      position:
+        x: 60
+        'y': 630
+      z: 2
+      parent: 6d8296ed-c5d5-409e-ab2d-88e1ed473f37
+      iscontainedinside:
+        - 6d8296ed-c5d5-409e-ab2d-88e1ed473f37
+
+    4ba8d0ad-f7d6-4b24-a277-25e2152ee970:
+      size:
+        width: 60
+        height: 60
+      position:
+        x: 150
+        'y': 630
+      z: 2
+      parent: 6d8296ed-c5d5-409e-ab2d-88e1ed473f37
+      iscontainedinside:
+        - 6d8296ed-c5d5-409e-ab2d-88e1ed473f37
+
+    80bf1786-fe06-4221-9bd6-84294081f4fc:
+      source:
+        id: 349a627b-91a1-4ed1-85e4-5516cb83c411
+      target:
+        id: ab38c26b-72bc-4204-8659-bae213c7259
+      z: 0
+
+    fb366b54-198d-4658-8729-b9811563692b:
+      source:
+        id: 66e284b0-a840-4f3b-b9dd-c2e63b0f1b4a
+      target:
+        id: 96475cd6-7b9f-4778-a802-614c74562758
+      z: 2
+
+    5991e75a-ef2a-44aa-aa47-256231295ac5:
+      source:
+        id: 66e284b0-a840-4f3b-b9dd-c2e63b0f1b4a
+      target:
+        id: f23d8fe7-c944-4c67-abbe-d8e23e974981
+      z: 2
+
+  AWS::CloudFormation::Interface: 
+    ParameterGroups:
+      - 
+        Label: 
+          default: "Network Configuration"
+        Parameters: 
+          - VPCCidr
+          - Region 
+      - 
+        Label: 
+          default: "Instance Docker Configuration"
+        Parameters: 
+          - InstanceTypeParameter
+          - InstanceKeyNameParameter
+      - 
+        Label: 
+          default: "Database Configuration"
+        Parameters: 
+          - DBTypeParameter
+          - domainname
+    ParameterLabels: 
+      InstanceTypeParameter: 
+        default: "Which type of instance do you want to use ?"
+      InstanceKeyNameParameter:
+        default: "Which key file do you want to use ?"
+      DBTypeParameter:
+        default: "Which type of instance do you want to use ?"
+      VPCCidr:
+        default: "Which CIDR for your VPC do you want to use ?"
+      Region:
+        default: "Which Region do you want to use ?"
+      domainname:
+        default: "Which Domain name do you want to use ?"
+
+Parameters:
+  InstanceTypeParameter: 
+    Type: String
+    Default: t2.micro
+    AllowedValues: 
+      - t2.micro
+    Description: Enter t2.micro. Default is t2.micro.
+  InstanceKeyNameParameter: 
+    Type: String
+    Default: ubuntu
+    AllowedValues: 
+      - ubuntu
+    Description: Enter ubuntu. Default is t2.micro.
+  DBTypeParameter: 
+    Type: String
+    Default: db.t3.micro
+    AllowedValues: 
+      - db.t3.micro
+      - db.t3.small
+      - db.t3.medium
+    Description: Enter db.t3.micro(0.038/h) or small(0.076/h) or medium(0.152/h) . Default is db.t3.micro.
+  VPCCidr:
+    AllowedPattern: '((\d{1,3})\.){3}\d{1,3}/\d{1,2}'
+    Type: String
+    Default: 10.136.0.0/16
+    Description: Enter the CIDR for your VPC
+  Region: 
+    Type: String
+    Default: eu-west-3
+    AllowedValues: 
+      - eu-west-3
+    Description: Default Paris (eu-west-3)
+  domainname:
+    Type: String
+    Default: www.de-faria.fr.
+    AllowedValues: 
+      - www.host.fr.
+    Description: Default www.host.fr.
+
+Mappings: 
+  RegionMap: 
+    eu-west-3:
+      HVM64: ami-0e11cbb34015ff725
+
+Resources:
+  P10VPC:
+    Type: 'AWS::EC2::VPC'
+    Properties:
+      CidrBlock: !Ref VPCCidr
+      EnableDnsHostnames: true
+      EnableDnsSupport: true
+      Tags:
+        - Key: Name
+          Value: !Sub '${AWS::StackName}-VPC'
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: 349a627b-91a1-4ed1-85e4-5516cb83c411
+
+  P10SubnetPublicA:
+    Type: 'AWS::EC2::Subnet'
+    Properties:
+      AvailabilityZone: !Sub ${Region}a
+      CidrBlock:
+        Fn::Select: 
+          - 0 
+          - Fn::Cidr: [ !GetAtt P10VPC.CidrBlock, 2, 8 ]
+      MapPublicIpOnLaunch: true
+      Tags:
+        - Key: Name
+          Value: !Sub '${AWS::StackName}-sub-pub-A'
+      VpcId: !Ref P10VPC
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: f23d8fe7-c944-4c67-abbe-d8e23e974981
+    DependsOn: 
+      - P10VPC
+
+  P10SubnetPublicB:
+    Type: 'AWS::EC2::Subnet'
+    Properties:
+      AvailabilityZone: !Sub ${Region}b
+      CidrBlock:
+        Fn::Select: 
+          - 1 
+          - Fn::Cidr: [ !GetAtt P10VPC.CidrBlock, 2, 8 ]
+      MapPublicIpOnLaunch: true
+      Tags:
+        - Key: Name
+          Value: !Sub '${AWS::StackName}-sub-pub-B'
+      VpcId: !Ref P10VPC
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: 96475cd6-7b9f-4778-a802-614c74562758
+    DependsOn: 
+      - P10VPC
+
+  P10SecurityGroupInstance:
+    Type: 'AWS::EC2::SecurityGroup'
+    Properties:
+      GroupDescription: The security group for the instances
+      GroupName: !Sub '${AWS::StackName}-SG-Instance'
+      SecurityGroupEgress:
+        - IpProtocol: -1
+          CidrIp: 0.0.0.0/0
+      SecurityGroupIngress:
+        - IpProtocol: tcp
+          FromPort: 80
+          ToPort: 80
+          SourceSecurityGroupId: !Ref P10SecuritGroupELB
+      Tags:
+        - Key: Name
+          Value: !Sub '${AWS::StackName}-SG-Instance'
+      VpcId: !Ref P10VPC
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: bbee72c3-368e-4b24-b353-ab4e7701f9fb
+    DependsOn: 
+      - P10VPC
+
+  P10MainRouteTable:
+    Type: 'AWS::EC2::RouteTable'
+    Properties:
+      Tags: 
+        - Key: Name
+          Value: !Sub '${AWS::StackName}-Route-Table'
+      VpcId: !Ref P10VPC
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: 66e284b0-a840-4f3b-b9dd-c2e63b0f1b4a
+    DependsOn: 
+      - P10VPC
+
+  P10Route:
+    Type: 'AWS::EC2::Route'
+    Properties:
+      DestinationCidrBlock: 0.0.0.0/0
+      GatewayId: !Ref P10IGW
+      RouteTableId: !Ref P10MainRouteTable
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: 905982ef-27cb-4e52-a3df-30a92c3f454d
+    DependsOn: 
+      - P10IGW
+      - P10MainRouteTable
+
+  P10AssoRouteTableSUBA:
+    Type: 'AWS::EC2::SubnetRouteTableAssociation'
+    Properties:
+      RouteTableId: !Ref P10MainRouteTable
+      SubnetId: !Ref P10SubnetPublicA
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: 5991e75a-ef2a-44aa-aa47-256231295ac5
+    DependsOn: 
+      - P10SubnetPublicA
+      - P10MainRouteTable
+
+  P10AssoRouteTableSUBB:
+    Type: 'AWS::EC2::SubnetRouteTableAssociation'
+    Properties:
+      SubnetId: !Ref P10SubnetPublicB
+      RouteTableId: !Ref P10MainRouteTable
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: fb366b54-198d-4658-8729-b9811563692b
+    DependsOn: 
+      - P10SubnetPublicB
+      - P10MainRouteTable
+
+  P10IGW:
+    Type: 'AWS::EC2::InternetGateway'
+    Properties:
+      Tags: 
+        - Key: Name
+          Value: !Sub '${AWS::StackName}-Instance-IGW'
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: ab38c26b-72bc-4204-8659-bae213c7259
+
+  P10AttachIGW:
+    Type: 'AWS::EC2::VPCGatewayAttachment'
+    Properties:
+      VpcId: !Ref P10VPC
+      InternetGatewayId: !Ref P10IGW
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: 80bf1786-fe06-4221-9bd6-84294081f4fc
+    DependsOn: 
+      - P10IGW
+      - P10VPC
+
+  P10ScalingGroup:
+    Type: 'AWS::AutoScaling::AutoScalingGroup'
+    Properties: 
+      AutoScalingGroupName: !Sub '${AWS::StackName}-Scaling-Group'
+      LaunchConfigurationName: !Ref P10LaunchConf
+      DesiredCapacity: 2
+      MaxSize: 4
+      MinSize: 2
+      AvailabilityZones:
+        - !Sub ${Region}a
+        - !Sub ${Region}b
+      VPCZoneIdentifier: 
+        - !Ref P10SubnetPublicA
+        - !Ref P10SubnetPublicB
+      TargetGroupARNs:
+        - !Ref P10TargetGroup
+      Tags: 
+        - Key: Name
+          PropagateAtLaunch: true
+          Value: !Sub '${AWS::StackName}-Docker-Wordpress'
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: d5f689ce-92c3-4e19-b4b3-d6abd4134b4b
+    DependsOn:
+      - P10LaunchConf
+      - P10TargetGroup
+
+  P10ScalingPolicy:
+    Type: 'AWS::AutoScaling::ScalingPolicy'
+    Properties:
+      AdjustmentType: ChangeInCapacity
+      AutoScalingGroupName: !Ref P10ScalingGroup
+      EstimatedInstanceWarmup: 240
+      MetricAggregationType: Average
+      PolicyType: StepScaling
+      StepAdjustments: 
+        - MetricIntervalLowerBound: 0
+          MetricIntervalUpperBound: 10
+          ScalingAdjustment: 1
+        - MetricIntervalLowerBound: 10
+          ScalingAdjustment: 1
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: fda64e1a-a925-444c-990a-09daf4785909
+
+  P10Alarm:
+    Type: 'AWS::CloudWatch::Alarm'
+    Properties:
+      ActionsEnabled: TRUE
+      AlarmActions: 
+        - !Ref P10ScalingPolicy
+      AlarmDescription: 'Alarm when the CPU is above 80%'
+      AlarmName: !Sub '${AWS::StackName}-Alarm'
+      ComparisonOperator: GreaterThanThreshold
+      DatapointsToAlarm: 1
+      Dimensions: 
+        - Name: AutoScalingGroupName
+          Value: !Ref P10ScalingGroup
+      EvaluationPeriods: 1
+      MetricName: CPUUtilization
+      Namespace: AWS/EC2
+      Period: 300
+      Statistic: Average
+      Threshold: 80
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: e8667ba2-4c22-438c-8294-e734374f08ac
+
+  P10AlarmMail:
+    Type: 'AWS::CloudWatch::Alarm'
+    Properties:
+      ActionsEnabled: TRUE
+      AlarmActions: 
+        - !Ref P10SNSTopic
+      AlarmDescription: 'Alarm when the CPU is above 80% send mail'
+      AlarmName: !Sub '${AWS::StackName}-Alarm-mail'
+      ComparisonOperator: GreaterThanThreshold
+      DatapointsToAlarm: 1
+      Dimensions: 
+        - Name: AutoScalingGroupName
+          Value: !Ref P10ScalingGroup
+      EvaluationPeriods: 1
+      MetricName: CPUUtilization
+      Namespace: AWS/EC2
+      Period: 300
+      Statistic: Average
+      Threshold: 80
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: 2d32b74c-6fed-4e0d-84eb-28085fa7a11d
+
+  P10SNSTopic:
+    Type: 'AWS::SNS::Topic'
+    Properties: 
+      DisplayName: 'Message send by the alarm'
+      Tags: 
+        - Key: name
+          Value: !Sub '${AWS::StackName}-Topic created'
+      TopicName: !Sub '${AWS::StackName}-Topic'
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: 43a3a302-4d47-4965-a399-6ba7a85ab837
+
+  P10SNSSubscription:
+    Type: 'AWS::SNS::Subscription'
+    Properties:
+      Endpoint: vdfxxx@free.fr
+      Protocol: email
+      TopicArn: !Ref P10SNSTopic
+      Region: !Ref Region
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: 2365f940-d31e-4bc1-a06e-12f7dae07d0a
+
+  P10LaunchConf:
+    Type: 'AWS::AutoScaling::LaunchConfiguration'
+    Properties: 
+      BlockDeviceMappings:
+        - DeviceName: /dev/sda1
+          Ebs:
+            VolumeSize: 8
+      EbsOptimized: false
+      ImageId: !FindInMap
+        - RegionMap
+        - !Ref 'AWS::Region'
+        - HVM64
+      InstanceMonitoring: false
+      InstanceType: !Ref InstanceTypeParameter
+      KeyName: !Ref InstanceKeyNameParameter
+      LaunchConfigurationName: !Sub '${AWS::StackName}-Launch-Conf'
+      SecurityGroups: 
+        - !Ref P10SecurityGroupInstance
+      UserData:
+        Fn::Base64:
+          Fn::Sub: |
+              #!/bin/bash
+              curl -fsSL https://download.docker.com/linux/ubuntu/gpg | apt-key add -
+              add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs)  stable"
+              apt-get update
+              apt-get -y install docker-ce docker-ce-cli containerd.io nfs-common mysql-client
+              cd /root
+              mkdir /root/.aws
+              echo -e "[default]\naws_access_key_id = ?????????\naws_secret_access_key = ??????????" > /root/.aws/credentials
+              docker run --name DockerWP-R7 -v /var/www/html:/var/www/html -e WORDPRESS_DB_HOST=db.host.fr:3306 -e WORDPRESS_DB_USER=user -e WORDPRESS_DB_PASSWORD=user_password -e WORDPRESS_TABLE_PREFIX=db_ -p 80:80 -d wordpress
+              docker run --name AWS -v /root/.aws:/root/.aws -v /root:/aws -d amazon/aws-cli s3 cp s3://bucket-of-p10-project/plugins.tar.gz plugins.tar.gz
+              sleep 5
+              tar xzf /root/plugins.tar.gz -C /
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: 3ec984e5-2c2c-4a49-8bb7-4663a5dfba4c
+    DependsOn:
+      - P10R53RecordRDS
+
+  P10ELB:
+    Type: 'AWS::ElasticLoadBalancingV2::LoadBalancer'
+    Properties: 
+      IpAddressType: ipv4
+      Name: !Sub '${AWS::StackName}-ELB'
+      Scheme: internet-facing
+      SecurityGroups:
+        - !Ref P10SecuritGroupELB
+      Subnets:
+        - !Ref P10SubnetPublicA
+        - !Ref P10SubnetPublicB
+      Tags: 
+        - Key: Name
+          Value: !Sub '${AWS::StackName}-ELB'
+      Type: application      
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: 2fd4b45a-8e27-46de-85e4-de3efe174904
+
+  P10SecuritGroupELB:
+    Type: 'AWS::EC2::SecurityGroup'
+    Properties:
+      GroupDescription: The security group for the ELB
+      GroupName: !Sub '${AWS::StackName}-SG-ELB'
+      SecurityGroupEgress:
+        - IpProtocol: -1
+          CidrIp: 0.0.0.0/0
+      SecurityGroupIngress:
+        - IpProtocol: tcp
+          FromPort: 80
+          ToPort: 80
+          CidrIp: 0.0.0.0/0
+      Tags:
+        - Key: Name
+          Value: !Sub '${AWS::StackName}-SG-ELB'
+      VpcId: !Ref P10VPC
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: dcfd5e84-9d0f-45d2-870d-82799056a1f4
+    DependsOn:
+      - P10VPC
+
+  P10Listener80:
+    Type: 'AWS::ElasticLoadBalancingV2::Listener'
+    Properties: 
+      DefaultActions:
+        - Type: forward
+          TargetGroupArn: !Ref P10TargetGroup
+      LoadBalancerArn: !Ref P10ELB
+      Port: 80
+      Protocol: "HTTP"
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: 7a61bd58-6c10-48ce-9302-57912f485c93
+    DependsOn:
+      - P10ELB
+
+  P10TargetGroup:
+    Type: 'AWS::ElasticLoadBalancingV2::TargetGroup'
+    Properties: 
+      Name: !Sub '${AWS::StackName}-Target-Group'
+      Port: 80
+      Protocol: HTTP
+      TargetType: instance
+      Tags:
+        - Key: Name
+          Value: !Sub '${AWS::StackName}-Target-Group'
+      VpcId: !Ref P10VPC
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: 0c844ea5-88a6-489f-81e2-24ae99731fc1
+    DependsOn:
+      - P10VPC
+
+  P10R53Record:
+    Type: 'AWS::Route53::RecordSet'
+    Properties:
+      HostedZoneId: ZZZZZZZZ
+      Name: !Ref domainname
+      TTL: 60
+      Type: CNAME
+      ResourceRecords: 
+        - !GetAtt P10ELB.DNSName
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: 902bd90f-1ae2-45ee-82ff-d3abe142cee4
+    DependsOn:
+      - P10ELB
+
+  P10R53RecordRDS:
+    Type: 'AWS::Route53::RecordSet'
+    Properties:
+      HostedZoneId: ZZZZZZZ
+      Name: db.host.fr.
+      TTL: 60
+      Type: CNAME
+      ResourceRecords: 
+        - !GetAtt P10RDSDB.Endpoint.Address
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: 239e7f52-ccb8-467a-99ed-31c23ad8c73f
+    DependsOn:
+      - P10RDSDB
+
+  P10SubGroup:
+    Type: 'AWS::RDS::DBSubnetGroup'
+    Properties:
+      DBSubnetGroupDescription: 'DB Subnet group avec 2 subnet'
+      DBSubnetGroupName: !Sub '${AWS::StackName}-subnet-group-DB'
+      SubnetIds: 
+        - !Ref P10SubnetPublicA
+        - !Ref P10SubnetPublicB
+      Tags: 
+        - Key: Name
+          Value: !Sub '${AWS::StackName}-Subnet-Group-DB'
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: 6d8296ed-c5d5-409e-ab2d-88e1ed473f37
+
+  P10SecurityGroupRDS:
+    Type: 'AWS::EC2::SecurityGroup'
+    Properties:
+      GroupDescription: The security group for the RDS
+      GroupName: !Sub '${AWS::StackName}-SG-RDS'
+      SecurityGroupEgress:
+        - IpProtocol: -1
+          CidrIp: 0.0.0.0/0
+      SecurityGroupIngress:
+        - IpProtocol: tcp
+          FromPort: 3306
+          ToPort: 3306
+          SourceSecurityGroupId: !Ref P10SecurityGroupInstance
+      Tags:
+        - Key: Name
+          Value: !Sub '${AWS::StackName}-SG-RDS'
+      VpcId: !Ref P10VPC
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: cf93e7b2-9127-4bae-a039-c4e49103e3b2
+    DependsOn:
+      - P10VPC
+
+  P10RDSDB:
+    Type: 'AWS::RDS::DBInstance'
+    Properties:
+      AutoMinorVersionUpgrade: false
+      AllocatedStorage: 20
+      BackupRetentionPeriod: 1
+      DBSubnetGroupName: !Ref P10SubGroup
+      DBInstanceClass: !Ref DBTypeParameter
+      DBInstanceIdentifier: !Sub '${AWS::StackName}-DataBase'
+      DBSnapshotIdentifier: arn:aws:rds:xxxxx:snapshot:database-wordpress-multi-az
+      Engine: mysql
+      MultiAZ: true
+      OptionGroupName: for-p10
+      PubliclyAccessible: false
+      StorageType: gp2
+      VPCSecurityGroups: 
+        - !Ref P10SecurityGroupRDS
+      Tags: 
+        - Key: Name
+          Value: !Sub '${AWS::StackName}-RDS-DataBase-from-snapshot'
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: 77eb49d2-3e04-42bc-981e-b0f4d492a201
+    DependsOn:
+      - P10SecurityGroupRDS
+      - P10SubGroup
+
+  P10RDSREPLI:
+    Type: 'AWS::RDS::DBInstance'
+    Properties:
+      AutoMinorVersionUpgrade: false
+      AllocatedStorage: 20
+      DBInstanceClass: !Ref DBTypeParameter
+      DBInstanceIdentifier: !Sub '${AWS::StackName}-Replica'
+      SourceDBInstanceIdentifier: !Ref P10RDSDB
+      StorageType: gp2
+      VPCSecurityGroups: 
+        - !Ref P10SecurityGroupRDS
+      Tags: 
+        - Key: Name
+          Value: !Sub '${AWS::StackName}-REPLICA' 
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: 4ba8d0ad-f7d6-4b24-a277-25e2152ee970
+    DependsOn:
+      - P10RDSDB
+      - P10SecurityGroupRDS
+
